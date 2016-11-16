@@ -3,5 +3,6 @@ memycache
 
 Small simple singel thread in memmory cache package
 
+bad
 
-WORK IN PROGRESS!!!
+ICED 
